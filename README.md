@@ -1,4 +1,4 @@
-# swipify-fr
+# SWIPIFY
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-swipify-fr is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://swipify.fr/
+SWIPIFY is a French software solution offering all‑in‑one invoicing, quoting and client‑portal tools for artisans, independents and very small enterprises (TPE). It provides electronic invoicing, project planning, site‑vitrine creation and integrates with iPhone, Android and desktop, hosted in France. Free to start with a paid tier of €30 HT per month for full features.
+
+**Areas:** Company
+
+## SWIPIFY on APIs.io
+
+Everything profiled for SWIPIFY is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/swipify-fr/](https://apis.io/providers/swipify-fr/)** — or go straight to one of the APIs or properties below.
+
+### APIs (15)
+
+- [SWIPIFY Brands API](https://apis.io/apis/swipify-fr/swipify-fr-brands-api/) — The Brands API from SWIPIFY — 1 operation(s) for brands.
+- [SWIPIFY Catalog API](https://apis.io/apis/swipify-fr/swipify-fr-catalog-api/) — The Catalog API from SWIPIFY — 1 operation(s) for catalog.
+- [SWIPIFY Clients API](https://apis.io/apis/swipify-fr/swipify-fr-clients-api/) — The Clients API from SWIPIFY — 2 operation(s) for clients.
+- [SWIPIFY Compliance API](https://apis.io/apis/swipify-fr/swipify-fr-compliance-api/) — The Compliance API from SWIPIFY — 1 operation(s) for compliance.
+- [SWIPIFY Credit Notes API](https://apis.io/apis/swipify-fr/swipify-fr-creditnotes-api/) — The CreditNotes API from SWIPIFY — 4 operation(s) for creditnotes.
+- [SWIPIFY Inbox API](https://apis.io/apis/swipify-fr/swipify-fr-inbox-api/) — The Inbox API from SWIPIFY — 3 operation(s) for inbox.
+- [SWIPIFY Invoices API](https://apis.io/apis/swipify-fr/swipify-fr-invoices-api/) — The Invoices API from SWIPIFY — 7 operation(s) for invoices.
+- [SWIPIFY Meta API](https://apis.io/apis/swipify-fr/swipify-fr-meta-api/) — The Meta API from SWIPIFY — 6 operation(s) for meta.
+- [SWIPIFY Projects API](https://apis.io/apis/swipify-fr/swipify-fr-projects-api/) — The Projects API from SWIPIFY — 2 operation(s) for projects.
+- [SWIPIFY Quotes API](https://apis.io/apis/swipify-fr/swipify-fr-quotes-api/) — The Quotes API from SWIPIFY — 7 operation(s) for quotes.
+- [SWIPIFY Recurring Invoices API](https://apis.io/apis/swipify-fr/swipify-fr-recurringinvoices-api/) — The RecurringInvoices API from SWIPIFY — 2 operation(s) for recurringinvoices.
+- [SWIPIFY Showcase API](https://apis.io/apis/swipify-fr/swipify-fr-showcase-api/) — The Showcase API from SWIPIFY — 2 operation(s) for showcase.
+- [SWIPIFY Stats API](https://apis.io/apis/swipify-fr/swipify-fr-stats-api/) — The Stats API from SWIPIFY — 2 operation(s) for stats.
+- [SWIPIFY Tasks API](https://apis.io/apis/swipify-fr/swipify-fr-tasks-api/) — The Tasks API from SWIPIFY — 1 operation(s) for tasks.
+- [SWIPIFY Webhooks API](https://apis.io/apis/swipify-fr/swipify-fr-webhooks-api/) — The Webhooks API from SWIPIFY — 6 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Swipify Fr Webhooks](https://apis.io/asyncapis/swipify-fr/swipify-fr-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SWIPIFY Agentic Access](https://apis.io/agentic-access/swipify-fr/swipify-fr-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Compliance](https://apis.io/schemas/swipify-fr/swipify-fr-compliance/)
+- [Customer](https://apis.io/schemas/swipify-fr/swipify-fr-customer/)
+- [InvoiceCreate](https://apis.io/schemas/swipify-fr/swipify-fr-invoice-create/)
+- [ProjectDetail](https://apis.io/schemas/swipify-fr/swipify-fr-project-detail/)
+- [RecurringInvoice](https://apis.io/schemas/swipify-fr/swipify-fr-recurring-invoice/)
+- [SiteConfig](https://apis.io/schemas/swipify-fr/swipify-fr-site-config/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Swipify Fr Context](https://apis.io/jsonld/swipify-fr/swipify-fr-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SWIPIFY API Rules](https://apis.io/rules/swipify-fr/swipify-fr-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SWIPIFY Authentication](https://apis.io/security/swipify-fr/swipify-fr-authentication/)
+- [SWIPIFY Domain Security](https://apis.io/security/swipify-fr/swipify-fr-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://swipify.fr/)
+- [Documentation](https://docs.swipify.fr)
+- [API reference](https://docs.swipify.fr/)
+- [Pricing](https://swipify.fr/tarifs)
+- [Blog](https://swipify.fr/blog)
+- [Terms of service](https://swipify.fr/conditions-generales)
+- [Privacy policy](https://swipify.fr/mentions-legales)
+
+## API Evangelist rating
+
+**Kin Score 48.2** — developing · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 68.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.1 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 25.5 |
+
+**Agent readiness 61.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/swipify-fr/](https://apis.io/providers/swipify-fr/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SWIPIFY: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/swipify-fr/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
